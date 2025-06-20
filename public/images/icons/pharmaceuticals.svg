@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="RWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Desktop" transform="translate(-461, -735)">
+            <g id="Group-5" transform="translate(446, 720)">
+                <g id="Group-4" transform="translate(8, 8)">
+                    <g id="Path" transform="translate(7, 7)">
+                        <polygon points="0 0 30 0 30 30 0 30"></polygon>
+                        <path d="M15,6.15625 C15.96875,5.0225 17.645,3.75 20.1975,3.75 C24.66125,3.75 27.65625,7.94 27.65625,11.8425 C27.65625,20 17.5,26.25 15,26.25 C12.5,26.25 2.34375,20 2.34375,11.8425 C2.34375,7.94 5.33875,3.75 9.8025,3.75 C12.355,3.75 14.03125,5.0225 15,6.15625 Z" stroke="#0C0C0C" stroke-width="1.87499999" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline stroke="#0C0C0C" stroke-width="1.87499999" stroke-linecap="round" stroke-linejoin="round" points="8.75 14.375 11.5275 14.375 13.61125 11.25 16.38875 17.5 18.4725 14.375 21.25 14.375"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

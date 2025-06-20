@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="RWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Desktop" transform="translate(-115, -735)">
+            <g id="Group-5-Copy-3" transform="translate(100, 720)">
+                <g id="Group-4" transform="translate(8, 8)">
+                    <g id="Group" transform="translate(7, 7)">
+                        <g transform="translate(3.75, 3.75)" id="Path" stroke="#0C0C0C" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.87421908">
+                            <polyline points="5.625 8.9475 5.625 17.5 17 17.5 17 9.035"></polyline>
+                            <polyline points="4.125 10 11.25 5 18.375 10"></polyline>
+                            <path d="M13.3125,17.5 L13.3125,14 C13.3125,13.25 12.6875,12.625 11.9375,12.625 L10.5625,12.625 C9.8125,12.625 9.1875,13.25 9.1875,14 L9.1875,17.5"></path>
+                            <path d="M5.625,0 L16.88,0 C19.98375,0 22.5,2.51625 22.5,5.62 L22.5,16.88125 C22.5,19.98375 19.98375,22.5 16.88,22.5 L5.62,22.5 C2.51625,22.5 0,19.98375 0,16.88 L0,5.625 C0,2.51875 2.51875,0 5.625,0 Z"></path>
+                        </g>
+                        <polygon id="Path" points="30 30 0 30 0 0 30 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="RWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Desktop" transform="translate(-282, -805)">
+            <g id="Group-5-Copy-2" transform="translate(267, 790)">
+                <g id="Group-4" transform="translate(8, 8)">
+                    <g id="Group" transform="translate(7, 7)">
+                        <line x1="17.6725" y1="20" x2="12.3275" y2="20" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <circle id="Oval" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round" cx="15" cy="15" r="11.25"></circle>
+                        <line x1="18.4375" y1="20" x2="11.5625" y2="20" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="12.3275" y1="20" x2="11.30625" y2="25.61625" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="18.69375" y1="25.61625" x2="17.6725" y2="20" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M15.0075,11.25 L15.0075,9.375 C15.018653,8.62178811 14.5779556,7.93503207 13.8885858,7.6313519 C13.1992158,7.32767171 12.3950373,7.46603691 11.8468062,7.982656 C11.2985752,8.49927509 11.1127489,9.29382944 11.375,10" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M13.4375319,16.875 L13.4375319,15 C13.4405839,14.2517219 12.9984609,13.5732531 12.3126744,13.273876 C11.626888,12.974499 10.8287575,13.1115406 10.2821137,13.62253 C9.73546986,14.1335194 9.54498801,14.9206085 9.7975,15.625" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M16.5624681,16.25 L16.5624681,14.375 C16.5594161,13.6267219 17.0015391,12.9482531 17.6873256,12.648876 C18.373112,12.349499 19.1712425,12.4865406 19.7178863,12.99753 C20.2645301,13.5085194 20.455012,14.2956085 20.2025,15" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polygon id="Path" points="30 30 0 30 0 0 30 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

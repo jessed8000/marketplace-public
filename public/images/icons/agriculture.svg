@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="RWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Desktop" transform="translate(-115, -875)">
+            <g id="Group-5-Copy-4" transform="translate(100, 860)">
+                <g id="Group-4" transform="translate(8, 8)">
+                    <g id="Group" transform="translate(7, 7)">
+                        <path d="M14.52625,10.46125 C12.0195676,10.46125 9.9875,12.4933176 9.9875,15 C9.9875,17.5066824 12.0195676,19.53875 14.52625,19.53875 C18.22375,19.53875 19.13125,14.99875 21.25,13.78875 C19.6703568,11.6675385 17.1708424,10.43056 14.52625,10.46125 L14.52625,10.46125 Z" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round" points="25.2 24.04375 25.2 20.625 21.7825 20.625"></polyline>
+                        <path d="M5.25625,20.625 C7.26100514,24.1074686 10.972671,26.2544741 14.9909577,26.2560233 C19.0092445,26.2575693 22.722563,24.1134234 24.73,20.6325" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.8425,16.4075 C3.42889077,13.2026818 4.41695204,9.97512003 6.55374275,7.5510619 C8.69053346,5.12700379 11.7686126,3.74177849 15,3.74992754 L15.0075,3.74992754 C18.2371308,3.74268439 21.3132869,5.12741581 23.4491041,7.54998741 C25.5849214,9.97255901 26.5732388,13.1979964 26.16125,16.40125" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.07375,14.50625 C12.5355745,14.9308724 10.2986782,16.4171354 8.92375,18.5925" id="Path" stroke="#0C0C0C" stroke-width="1.87421908" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polygon id="Path" points="0 0 30 0 30 30 0 30"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

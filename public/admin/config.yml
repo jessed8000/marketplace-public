@@ -1,0 +1,95 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Project Symbol", name: "symbol", widget: "string" }
+      - { label: "Featured Image", name: "featured_image", widget: "image" }
+      - { label: "Logo", name: "logo", widget: "image" }
+      - { label: "Category", name: "category", widget: "select", options: ["Real Estate", "Natural Gas", "Crypto Clouds", "Digital Art", "Weed", "Technology"] }
+      - { label: "Launch Date", name: "launch_date", widget: "string" }
+      - { label: "Company", name: "company", widget: "string" }
+      - { label: "NFT Price", name: "nft_price", widget: "string" }
+      - { label: "Amount Raised", name: "amount_raised", widget: "string" }
+      - { label: "NFTs Available", name: "nfts_available", widget: "string" }
+      - { label: "Visibility Number", name: "visibility_number", widget: "string" }
+      - { label: "NFT Holders", name: "nft_holders", widget: "string" }
+      - { label: "Amount Raising", name: "amount_raising", widget: "string" }
+      - { label: "Asset Valuation", name: "asset_valuation", widget: "string" }
+      - { label: "Total Shares", name: "total_shares", widget: "string" }
+      - { label: "Share Price", name: "share_price", widget: "string" }
+      - { label: "Asset Symbol", name: "asset_symbol", widget: "string" }
+      - { label: "Project Website", name: "project_website", widget: "string", required: false }
+      - { label: "Quantic RWA", name: "quantic_rwa", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Overview", name: "overview", widget: "markdown" }
+      - { label: "About", name: "about", widget: "markdown" }
+      - { label: "Reasons to Back", name: "reasons_to_back", widget: "list", field: { label: "Reason", name: "reason", widget: "text" } }
+      - { label: "Status", name: "status", widget: "select", options: ["Active", "Coming Soon", "Launched", "Funded"], default: "Active" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "content/pages/homepage.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Hero Title", name: "hero_title", widget: "string" }
+          - { label: "Hero Subtitle", name: "hero_subtitle", widget: "text" }
+          - { label: "Featured Projects", name: "featured_projects", widget: "relation", collection: "projects", multiple: true, required: false }
+          - { label: "Categories", name: "categories", widget: "list", field: { label: "Category", name: "category", widget: "string" } }
+
+      - label: "About Page"
+        name: "about"
+        file: "content/pages/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "Site Settings"
+        name: "site"
+        file: "content/settings/site.md"
+        fields:
+          - { label: "Site Title", name: "site_title", widget: "string" }
+          - { label: "Site Description", name: "site_description", widget: "text" }
+          - { label: "Logo", name: "logo", widget: "image" }
+          - { label: "Navigation", name: "navigation", widget: "list", fields: [
+              { label: "Label", name: "label", widget: "string" },
+              { label: "Link", name: "link", widget: "string" }
+            ]}
+          - { label: "Social Links", name: "social_links", widget: "list", fields: [
+              { label: "Platform", name: "platform", widget: "string" },
+              { label: "URL", name: "url", widget: "string" }
+            ]}
+
+  - name: "future_projects"
+    label: "Future Projects"
+    folder: "content/future-projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Status", name: "status", widget: "select", options: ["Coming Soon", "In Development"], default: "Coming Soon" }
+      - { label: "Website", name: "website", widget: "string", required: false }
+      - { label: "Raise Info", name: "raise_info", widget: "string", required: false }
+      - { label: "NFT Price", name: "nft_price", widget: "string", required: false }
